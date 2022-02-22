@@ -5,5 +5,4 @@ App no estilo "To Do List" criado do zero usando Kotlin, uma das linguagens de p
 ## Tools
 
 - Kotlin
-- Xml
 - Android Studio
